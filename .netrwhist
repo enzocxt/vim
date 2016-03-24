@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/usr/local'
+let g:netrw_dirhist_2='/Users/enzo/.vim'
+let g:netrw_dirhist_3='/Users/enzo/NDN/PyNDN2/doc'
+let g:netrw_dirhist_4='/Users/enzo/NDN/PyNDN2/python/pyndn/util'
+let g:netrw_dirhist_5='/Users/enzo/.vim'
